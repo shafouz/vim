@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/shafou/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book'
+let g:netrw_dirhist_1='/home/shafou/Downloads/workspace/rails/testing_book/code/js_jasmine/01'
+let g:netrw_dirhist_0='/home/shafou/Downloads/workspace/rails/testing_book/code'
+let g:netrw_dirhist_9='/home/shafou/Downloads/workspace/rails/testing_book/code/data/02/bin'
+let g:netrw_dirhist_8='/home/shafou/Downloads/workspace/rails/testing_book/code/data/02'
+let g:netrw_dirhist_7='/home/shafou/Downloads/workspace/rails/testing_book/code/data/02/spec'
+let g:netrw_dirhist_6='/home/shafou/Downloads/workspace/rails/testing_book/code/data/02/spec/factories'
+let g:netrw_dirhist_5='/home/shafou/Downloads/workspace/rails/testing_book/code/data/02/spec'
+let g:netrw_dirhist_4='/home/shafou/Downloads/workspace/rails/testing_book/code/data/02/spec/factories'
+let g:netrw_dirhist_3='/home/shafou/Downloads/workspace/rails/testing_book/code/data/02/spec'
